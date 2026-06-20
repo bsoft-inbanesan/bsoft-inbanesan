@@ -105,24 +105,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsoft-inbanesan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage" height="190"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsoft-inbanesan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsoft-inbanesan&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bsoft-inbanesan&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 ### 🐍 Contribution Graph
 
 <div align="center">
